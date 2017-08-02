@@ -1,32 +1,30 @@
 {
   "website":{
-    "title": "Jack's blog"
+    "title": "Alex's blog"
   },
   "nav":{
     "home": "Home",
     "about_me": "About",
-    "skills": "Skills",
-    "projects": "Projects",
-    "career": "Career",
-    "blog": "Blog",
-    "link": "Link"
+    "skills": "Competenze",
+    "projects": "Progetti",
+    "career": "Carriera"
   },
   "about_me":{
     "about_me": "About Me",
     "des": "I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
   },
   "skills":{
-    "my_skills": "My Skills"
+    "my_skills": "Le mie competenze"
   },
   "projects":{
-    "my_projects": "My Projects",
+    "my_projects": "I miei progetti",
     "saplatform": "Saplatform is a automated service for operations, it has asset management, project release, database access function, it can control mass servers.",
     "jalpc": "Jalpc is a simple, beautiful and swift theme for Jekyll. It has comprehensive function, it can be easily used and edited. It's adapted for many kinds devices.",
     "angularjs": "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well.",
     "rsser": "Rsser is an Ionic application, with this application we can read news and articles freely, you can add rss address from the given list and add it manually."
   },
   "career":{
-    "my_career": "My Career",
+    "my_career": "La mia carriera",
     "nextcode": "Nextcode",
     "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
     "nextcode_date": "Apr. 2016",
@@ -45,7 +43,7 @@
     "college_job": "Student"
   },
   "blog":{
-    "my_blog": "My Blog"
+    "my_blog": "Il mio blog"
   },
   "link":{
     "link": "Link",
