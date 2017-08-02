@@ -1,15 +1,13 @@
 {
   "website":{
-    "title": "Jack's blog"
+    "title": "Alex's blog"
   },
   "nav":{
-    "home": "Home",
-    "about_me": "About",
+    "home": "Acasa",
+    "about_me": "Despre",
     "skills": "Skills",
-    "projects": "Projects",
-    "career": "Career",
-    "blog": "Blog",
-    "link": "Link"
+    "projects": "Proiecte",
+    "career": "Cariera"
   },
   "about_me":{
     "about_me": "About Me",
