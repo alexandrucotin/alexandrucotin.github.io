@@ -1,6 +1,6 @@
 {
   "website":{
-    "title": "Jack's blog"
+    "title": "Alexandru's blog"
   },
   "nav":{
     "home": "Home",
@@ -13,43 +13,28 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
+    "des": "I am a Full Stack engineer with website development experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
   },
   "skills":{
     "my_skills": "My Skills"
   },
   "projects":{
     "my_projects": "My Projects",
-    "saplatform": "Saplatform is a automated service for operations, it has asset management, project release, database access function, it can control mass servers.",
-    "jalpc": "Jalpc is a simple, beautiful and swift theme for Jekyll. It has comprehensive function, it can be easily used and edited. It's adapted for many kinds devices.",
-    "angularjs": "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well.",
-    "rsser": "Rsser is an Ionic application, with this application we can read news and articles freely, you can add rss address from the given list and add it manually."
+    "apnello": "This was my first project done for a renting apartment. It's a single page site with a simple contact form. Is made with w3css and some basic javascript scripts.",
+    "apnoblesse": "This was my second project done aswell for a rendting apartment. Is made with bootstrap v3.",
+    "etwin": "This was a project during my 3th year in school where we spoke with another student class in spain. We've done some posts about the new technology an sharing our knowledge eachother.",
+    "mm": "This was a project for my final exam in my school. It's a smart mirror that uses raspberry pi3 as the main engine of the project. You can also add some module (voice recognition, voice controll, face recognition) and choose where to show them in the main interface.",
+    "cisco": "During my schooltime i've got the cisco ITE essential certificate and also the first two certificate for CCNA v5.1"
   },
   "career":{
-    "my_career": "My Career",
-    "nextcode": "Nextcode",
-    "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
-    "nextcode_date": "Apr. 2016",
-    "nextcode_job": "Python Developer",
-    "netease": "Netease Game",
-    "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
-    "netease_date": "Jun. 2015",
-    "netease_job": "Dev Ops",
-    "ucloud": "Ucloud",
-    "ucloud_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
-    "ucloud_date": "Sep. 2013",
-    "ucloud_job": "Dev Ops",
-    "college": "Graduation",
-    "college_des": "At July 2013,I graduated from college and started my IT technology tour.",
-    "college_date": "Jul. 2013",
-    "college_job": "Student"
-  },
-  "blog":{
-    "my_blog": "My Blog"
-  },
-  "link":{
-    "link": "Link",
-    "view": "views"
+    "my_career": "My career",
+    "pizzeria": "Pizzeria 'Dai Butei'",
+    "pizzeria_des": "During my experience as a chef at Pizzeria dai butei i have lernt how to collaborate and communicate in a clear manner with other people in a professional environment and work in a team. I also had the opportunitu to comunicate in English with tourists as well  as develop time management skills, attention to detail and work under pressure in a fast paced environment.",
+    "pizzeria_date": "May. 2016 - Sep. 2017",
+    "pizzeria_job": "Chef",
+    "school": "Graduation",
+    "school_des": "At July 2017, I finished my secondari school called 'G. Marconi - Verona' in Italy. In this school there are 5 specializations and i choosed informatics. I have a good base of what informatic is and how it works. I know 3 programming languages: Java, Python and SQL. Beside these 3 languages i also worked with  AngularJS, Bootstrap and a little of Materialize. ",
+    "school_date": "Jul. 2017",
+    "school_job": "Student"
   }
-
 }

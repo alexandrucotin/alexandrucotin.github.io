@@ -4,50 +4,37 @@
   },
   "nav":{
     "home": "Home",
-    "about_me": "About",
-    "skills": "Competenze",
+    "about_me": "Su di me ",
+    "skills": "Skills",
     "projects": "Progetti",
     "career": "Carriera"
   },
   "about_me":{
-    "about_me": "About Me",
-    "des": "I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
+    "about_me": "Su di Me",
+    "des": "Sono un informatico full-stack con buone capacità in front-end e discrete capacità in back-end."
   },
   "skills":{
     "my_skills": "Le mie competenze"
   },
+
   "projects":{
     "my_projects": "I miei progetti",
-    "saplatform": "Saplatform is a automated service for operations, it has asset management, project release, database access function, it can control mass servers.",
-    "jalpc": "Jalpc is a simple, beautiful and swift theme for Jekyll. It has comprehensive function, it can be easily used and edited. It's adapted for many kinds devices.",
-    "angularjs": "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well.",
-    "rsser": "Rsser is an Ionic application, with this application we can read news and articles freely, you can add rss address from the given list and add it manually."
+    "apnello": "Questo è stato il mio primo progetto riguardante un'appartamento in affitto. Ho usato w3css.",
+    "apnoblesse": "Questo è stato il mio secondo progetto e anche in questo caso riguarda un'altro appartamento. In questo caso ho usato Bootstrap v3.",
+    "etwin": "Questo è stato un progetto fatto in terza superiore con una classe proveniente da un'altro paese. Su questo sito abbiamo parlato e fatto post su argomenti di tecnologia e informatica.",
+    "mm": "Questo è stato il mio progetto di maturità. Si tratta di un magicmirror fatto con il raspberrypi 3",
+    "cisco": "Durante gli ultimi tre anni di superiore ho seguito il corso di ITE essential con conseguente certificato e i primi due corsi del CCNA con conseguente certificato."
   },
+
   "career":{
     "my_career": "La mia carriera",
-    "nextcode": "Nextcode",
-    "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
-    "nextcode_date": "Apr. 2016",
-    "nextcode_job": "Python Developer",
-    "netease": "Netease Game",
-    "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
-    "netease_date": "Jun. 2015",
-    "netease_job": "Dev Ops",
-    "ucloud": "Ucloud",
-    "ucloud_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
-    "ucloud_date": "Sep. 2013",
-    "ucloud_job": "Dev Ops",
-    "college": "Graduation",
-    "college_des": "At July 2013,I graduated from college and started my IT technology tour.",
-    "college_date": "Jul. 2013",
-    "college_job": "Student"
-  },
-  "blog":{
-    "my_blog": "Il mio blog"
-  },
-  "link":{
-    "link": "Link",
-    "view": "views"
+    "pizzeria": "Pizzeria 'Dai Butei'",
+    "pizzeria_des": "Durante la mia esperienza come cuoco alla Pizzeria dai Butei ho imparato come collaborare e comunicare in maniera professionale con altre persone. Ho anche avuto opportunità di comunicare in inglese con turisti e sviluppare competenze manageriali e attenzione ai dettagli pur lavorando sotto pressione   ",
+    "pizzeria_date": "Mag. 2016 - Set. 2017",
+    "pizzeria_job": "Pizzaiolo",
+    "school": "Diplomato",
+    "school_des": "Nel 2017 mi sono diplomato all'istituto tecnico statale 'G. Marconi - Verona' con la specializzazione di informatico. ",
+    "school_date": "Jul. 2017",
+    "school_job": "Student"
   }
-
 }
