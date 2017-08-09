@@ -1,29 +1,29 @@
 - name: 'Appartamento Nello'
   i18n: 'apnello'
   url: 'appartamentonello.com'
-  img: 'static/img/landing/saplatform.png'
+  img: 'static/img/landing/logow.jpeg'
   desc: This was my first project done for a renting apartment. Is made with w3css.
 
 - name: 'Appartamento Noblesse'
   i18n: 'apnoblesse'
   url: 'noblesseapartment.it'
-  img: 'static/img/landing/jekyll.png'
+  img: 'static/img/landing/logow.jpeg'
   desc: This was my second project done aswell for a rendting apartment. Is made with bootstrap v3.
 
 - name: 'E-Tweening'
   i18n: 'etwin'
   url: 'etweening.com'
-  img: 'static/img/landing/angularjs.png'
+  img: 'static/img/landing/logoet.jpeg'
   desc: This was a project during my 3 year in school where we spoke with another student class in spain. We've done some posts about technology and stuff like that.
 
 - name: 'MagicMirror v2'
   i18n: 'mm'
   url: 'magicmirror.com'
-  img: 'static/img/landing/rsser.png'
+  img: 'static/img/landing/logomm.jpeg'
   desc: This was a project for my final exam in my school. It's a magic mirror that is using a raspberrypi 3 to work.
 
 - name: 'Cisco Network Accademy'
   i18n: 'cisco'
   url: 'netacad.com'
-  img: 'static/img/landing/familycode.png'
+  img: 'static/img/landing/logoc.jpeg'
   desc: I've got the cisco essential certificate and also the first two certificate for ccna v5.1
