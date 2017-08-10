@@ -13,18 +13,18 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a Full Stack engineer with website development experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
+    "des": "Enthusiastic full stack engineer with a passion for sports like mountain biking, kick boxing and swimming and also travelling."
   },
   "skills":{
     "my_skills": "My Skills"
   },
   "projects":{
     "my_projects": "My Projects",
-    "apnello": "This was my first project done for a renting apartment. It's a single page site with a simple contact form. Is made with w3css and some basic javascript scripts.",
-    "apnoblesse": "This was my second project done aswell for a rendting apartment. Is made with bootstrap v3.",
-    "etwin": "This was a project during my 3th year in school where we spoke with another student class in spain. We've done some posts about the new technology an sharing our knowledge eachother.",
-    "mm": "This was a project for my final exam in my school. It's a smart mirror that uses raspberry pi3 as the main engine of the project. You can also add some module (voice recognition, voice controll, face recognition) and choose where to show them in the main interface.",
-    "cisco": "During my schooltime i've got the cisco ITE essential certificate and also the first two certificate for CCNA v5.1"
+    "apnello": "Single page website built using jQuery, w3css framework, HTML5, jssor slider",
+    "apnoblesse": "Single page website built using jQuery, Bootstrap, HTML5.",
+    "etwin": "This was a project during my 3th year in school where we spoke with another student class in Spain. We've done some posts about the new technology an sharing our knowledge eachothers.",
+    "mm": "Built a smart mirror for my final exam. Used raspberry pi and magicmirror.",
+    "cisco": "During my schooltime i've got the Cisco ITE essential certificate and also the first certificate of CCNA "
   },
   "career":{
     "my_career": "My career",

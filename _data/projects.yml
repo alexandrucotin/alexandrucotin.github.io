@@ -1,26 +1,26 @@
 - name: 'Appartamento Nello'
   i18n: 'apnello'
-  url: 'appartamentonello.com'
+  url: 'appartamentonello.it'
   img: 'static/img/landing/logow.jpeg'
-  desc: This was my first project done for a renting apartment. Is made with w3css.
+  desc: Single page website built using jQuery, w3css framework, HTML5, jssor slider
 
 - name: 'Appartamento Noblesse'
   i18n: 'apnoblesse'
   url: 'noblesseapartment.it'
   img: 'static/img/landing/logow.jpeg'
-  desc: This was my second project done aswell for a rendting apartment. Is made with bootstrap v3.
+  desc: Single page website built using jQuery, Bootstrap, HTML5.
 
-- name: 'E-Tweening'
+- name: 'E-Twinning'
   i18n: 'etwin'
-  url: 'etweening.com'
+  url: 'etwinning.net'
   img: 'static/img/landing/logoet.jpeg'
   desc: This was a project during my 3 year in school where we spoke with another student class in spain. We've done some posts about technology and stuff like that.
 
 - name: 'MagicMirror v2'
   i18n: 'mm'
-  url: 'magicmirror.com'
+  url: 'magicmirror.builders'
   img: 'static/img/landing/logomm.jpeg'
-  desc: This was a project for my final exam in my school. It's a magic mirror that is using a raspberrypi 3 to work.
+  desc: Built a smart mirror for my final exam. Used raspberry pi and magicmirror.
 
 - name: 'Cisco Network Accademy'
   i18n: 'cisco'

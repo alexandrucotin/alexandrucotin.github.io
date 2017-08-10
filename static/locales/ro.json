@@ -18,20 +18,20 @@
   },
   "projects":{
     "my_projects": "Proiecte",
-    "apnello": "Acesta a fost primul meu proiect despre un apartament de inchiriat. Am folosit framework ul w3css.",
-    "apnoblesse": "Acesta a fost al doilea proiect tot despre un apartament de inchiriat. In cazutl asta am folosit bootstrap v3.",
-    "etwin": "Acesta a fost un proiect facut in clasa a 10 a cu o clasa din afara tarii unde scriam articole despre tecnologiile noi si despre domeniul IT. In acest proiect am avut posibilitatea de a dezvolta si a ingriji modul de a vorbi engleza. ",
+    "apnello": "Single page website construit folosind jQuery, w3css framework, HTML5, jssor slider",
+    "apnoblesse": "Single page website construit folosind jQuery, Bootstrap, HTML5.",
+    "etwin": "Acesta a fost un proiect facut in clasa a 10 a cu o clasa din afara tarii unde am scris articole despre tecnologiile noi si despre domeniul IT. In acest proiect am avut ocazia de a dezvolta si a ingriji modul de a vorbi engleza. ",
     "mm":"MagicMirror este o oglinda smart. Se bazeaza pe raspberrypi 3. Am realizat proiectul asta pentru teza la bac.",
-    "cisco": "Am obtinut la scoala certificatul cisco ITE Essential si primele 2 CCNA v5.1 ."
+    "cisco": "Am obtinut la scoala certificatul cisco ITE Essential si primul CCNA."
   },
   "career":{
     "my_career": "Cariera mea",
     "pizzeria": "Pizzeria 'Dai Butei' ",
-    "pizzeria_des": "In timpul scolii am lucart in aceasta pizzerie unde am fost bucatar.",
+    "pizzeria_des": "În timpul experienței mele de bucătar la Pizzeria dai butei am invatat cum să colaborez și să comunic într-o manieră clară cu ceilalți oameni într-un mediu profesional și să lucrăm într-o echipă. De asemenea, am avut oportunitatea de a comunica în limba engleză cu turiștii, precum și de a dezvolta abilități de gestionare a timpului, atenție la detalii și de a lucra sub presiune într-un mediu rapid.",
     "pizzeria_date": "Mai. 2016 - Sep. 2017",
     "pizzeria_job": "Bucatar",
     "school": "Graduation",
-    "school_des": "In iulie 2017 am terminat liceul tehnic 'G. Marconi - Verona' cu specializarea de informatica. ",
+    "school_des": "Am absolvit 'G. Marconi - Verona' cu specializare în Informatică. Am reușit să înțeleg bine informatica prin învățarea și implementarea proiectelor folosind limbi de programare precum Python, Java și Javascript. De asemenea, am studiat bazele de date bazate pe MySql. Majoritatea proiectelor la care am lucrat au fost proiecte de echipă, dar am lucrat și la proiecte individuale.",
     "school_date": "Iul. 2017",
     "school_job": "Student"
   }

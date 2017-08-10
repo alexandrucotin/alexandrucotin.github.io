@@ -19,10 +19,10 @@
 
   "projects":{
     "my_projects": "I miei progetti",
-    "apnello": "Questo è stato il mio primo progetto riguardante un'appartamento in affitto. Ho usato w3css.",
-    "apnoblesse": "Questo è stato il mio secondo progetto e anche in questo caso riguarda un'altro appartamento. In questo caso ho usato Bootstrap v3.",
+    "apnello": "Single page website costruito con jQuery, w3css framework, HTML5, jssor slider",
+    "apnoblesse": "Single page website costruito con jQuery, Bootstrap, HTML5.",
     "etwin": "Questo è stato un progetto fatto in terza superiore con una classe proveniente da un'altro paese. Su questo sito abbiamo parlato e fatto post su argomenti di tecnologia e informatica.",
-    "mm": "Questo è stato il mio progetto di maturità. Si tratta di un magicmirror fatto con il raspberrypi 3",
+    "mm": "Questo è stato il mio progetto di maturità. Si tratta di uno smartmirror usando il raspberrypi 3 e il software magicmirror",
     "cisco": "Durante gli ultimi tre anni di superiore ho seguito il corso di ITE essential con conseguente certificato e i primi due corsi del CCNA con conseguente certificato."
   },
 
@@ -33,7 +33,7 @@
     "pizzeria_date": "Mag. 2016 - Set. 2017",
     "pizzeria_job": "Pizzaiolo",
     "school": "Diplomato",
-    "school_des": "Nel 2017 mi sono diplomato all'istituto tecnico statale 'G. Marconi - Verona' con la specializzazione di informatico. ",
+    "school_des": "Mi sono diplomato all'istituto tecnico statale 'G. Marconi' specializzandomi nell'ambito informatico. Ho appreso buone conoscenze dell'informatica imparando a implementare progetti usando linguaggi di programmazione come per esempio Python, Java e Javascript. Ho stodiato anche le basi dei database usando MySql. Nei progetti, maggiormente abbiamo lavorato in gruppo ma ho ottime capacità anche di lavoro autonomo.",
     "school_date": "Jul. 2017",
     "school_job": "Student"
   }
